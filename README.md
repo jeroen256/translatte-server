@@ -16,3 +16,4 @@ To start tiny-translator:
 - cd to projects/tiny-translator, run npm install again
 - run `npm run start-en`
 
+The translations translatte receives from Google seem quite clumsy and full of errors. Not comparable to the perfect results you get manually from https://translate.google.com/. Think Google is somehow aware. Actually I thinks the time to setup these 2 projects is not worth it. Better just copy paste manually or get a Google Cloud Translate Api key.
