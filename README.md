@@ -11,3 +11,8 @@ To start the server: press F5 in vscode or run `node index.js`
 
 Example usage: http://localhost:3000/translatte/en/de/Hello, how is {{0}}%3F%0AI heard that {{1}} is doing fine.
 
+To start tiny-translator:
+- run `npm install` from root ngx-i18nsupport folder
+- cd to projects/tiny-translator, run npm install again
+- run `npm run start-en`
+
